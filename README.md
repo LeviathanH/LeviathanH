@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Ferlito Nice to meet ypu
+Im Ferlito Nice to meet you
 
 <!--
 **LeviathanH/LeviathanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
